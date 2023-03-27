@@ -8,6 +8,6 @@ def mp42mp3(our_mp4_file):
     return our_mp4_file
 
 
-new_file2 = mp42mp3("RAVA - BULIBAHA (Visualizer).mp4")
+new_file2 = mp42mp3("my_song.mp4")
 
 
